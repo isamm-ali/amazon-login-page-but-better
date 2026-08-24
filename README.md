@@ -1,16 +1,32 @@
-# amazonfix
+# Amazon Sign In / Sign Up Redesign
 
-A new Flutter project.
+A Flutter-only redesign of Amazon's **Sign In and Sign Up screens**, focused on recreating the UI and user experience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 🔐 Sign In screen
+* 📝 Sign Up screen
+* 🎨 Amazon-inspired UI
+* 📱 Responsive Flutter layout
+* 🔄 Navigation between authentication screens
+* 🧩 Reusable Flutter widgets
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Flutter**
+* **Dart**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Frontend/UI only — no backend or authentication is implemented.
+
+## 🚀 Getting Started
+
+```bash
+git clone <your-repo-url>
+cd <project-folder>
+flutter pub get
+flutter run
+```
+
+## 📌 Note
+
+This project was built for **UI practice and learning Flutter**, and is not affiliated with or endorsed by Amazon.
